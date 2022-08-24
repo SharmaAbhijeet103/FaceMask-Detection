@@ -1,0 +1,2 @@
+# FaceMask-Detection
+facemask detection model that is based on computer vision and deep learning. The proposed model can be integrated with Surveillance Cameras to impede the COVID-19 transmission by allowing the detection of people who are wearing masks not wearing face masks. The model is integration between deep learning and classical machine learning techniques with Open cv, Tensor flow and Keras. We will achieve the highest accuracy and consume the least time in the process of training and detection.
